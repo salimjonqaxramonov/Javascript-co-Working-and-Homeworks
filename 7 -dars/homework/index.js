@@ -10,8 +10,6 @@ let y = 0;
  }
  let o = y / 5;
  console.log("Arifmetik o‘rtacha:", o);
-
- 
  
 //  -----------------------------
 
